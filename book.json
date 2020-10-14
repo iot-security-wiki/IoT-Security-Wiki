@@ -1,0 +1,47 @@
+{
+  "title": "物联网安全百科",
+  "author": "Yaseng、独抒、BG7YWL",
+  "language": "zh-hans",
+  "description": "物联网安全开源图书",
+  "links": {
+    "sidebar": {
+      "物联网安全百科": "https://iot-security.wiki"
+    }
+  },
+  "theme-default": {
+      "showLevel": true
+  },
+  "plugins": [
+    "-sharing",
+    "-livereload",
+    "image-captions",
+    "github",
+    "editlink",
+    "favicon",
+    "baidu"
+  ],
+  "pluginsConfig": {
+    "image-captions": {
+      "attributes": {
+        "width": "600"
+      },
+      "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+    },
+    "github": {
+      "url": "https://github.com/iot-security-wiki/IoT-Security-Wiki"
+    },
+    "editlink": {
+      "base": "https://github.com/iot-security-wiki/IoT-Security-Wiki",
+      "label": "编辑本页"
+    },
+    "favicon":{
+        "shortcut": "_assets/images/favicon.ico",
+        "bookmark": "_assets/images/favicon.ico",
+        "appleTouch": "_assets/images/favicon.ico"
+    },
+    "baidu": {
+         "token": "aaaa"
+    }
+ 
+  }
+}
