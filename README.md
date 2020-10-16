@@ -24,7 +24,7 @@
 | 本书作者 <img src="https://cdn.bg7ywl.com/Author.png" /> | [Yaseng](https://www.yaseng.org)、独抒、[BG7YWL](https://www.bg7ywl.com/)|
 | 知乎专栏 | [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/iot-security) |
 | 邮箱 | info@iot-security.wiki |
-| IoT Security <img src="https://cdn.bg7ywl.com/Shop1.png" /> | [IoT Security Shop](https://shop135619923.taobao.com/) |
+| IoT Security Shop <img src="https://cdn.bg7ywl.com/Shop1.png" /> | [IoT Security Shop](https://shop135619923.taobao.com/) |
 | QQ交流群 <img src="https://cdn.bg7ywl.com/QQ.png" /> |  [306482276](https://qm.qq.com/cgi-bin/qm/qr?k=8UiQa4vGqKTIQC4A-_x-7MIHJlXLJBwa&jump_from=webapi) |
 | 微信公众号 <img src="https://cdn.bg7ywl.com/WeChat.png" /> | ![](https://cdn.bg7ywl.com/SZ-security.jpg)|
 | 微信交流群 <img src="https://cdn.bg7ywl.com/WeChat.png" /> | ![](https://img.bg7ywl.com/WX.jpg)|

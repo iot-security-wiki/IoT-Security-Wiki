@@ -31,7 +31,7 @@
       "url": "https://github.com/iot-security-wiki/IoT-Security-Wiki"
     },
     "editlink": {
-      "base": "https://github.com/iot-security-wiki/IoT-Security-Wiki",
+      "base": "https://github.com/iot-security-wiki/IoT-Security-Wiki/blob/main/",
       "label": "编辑本页"
     },
     "favicon":{
@@ -40,7 +40,7 @@
         "appleTouch": "_assets/images/favicon.ico"
     },
     "baidu": {
-         "token": "aaaa"
+         "token": "a26fbc0aa8067adc12a52221dc693f74"
     }
  
   }
