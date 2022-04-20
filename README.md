@@ -1,6 +1,6 @@
 # 物联网安全百科
 ## 前言
-本书是由数智安全研究院与伏宸安全实验发起的一个开源图书项目，目前属于测试版本，很多章节尚未完成，收录在日常研究过程中，总结的零散知识和心得经验，今后会不断完善内容，形成系统化的知识结构。
+本书是由湖南长沙伏宸安全实验发起的一个开源‘物联网安全百科’图书项目，目前属于测试Demo版本，很多章节尚未完成，收录在日常研究、实验过程中，总结的零散知识和心得经验，今后会不断完善内容，形成系统化的知识结构。
 
 当今世界之发展，以大数据、人工智能为基石，网络由虚拟走向现实，连接世间万物，未来即是万物互联之时代，于是传统网络安全的边界亦由虚拟世界扩展到现实社会，诸如喧嚣尘上的智能家居、智能网联车、形形色色的智能芯片硬件，已经渗透进生活中的各个方面，商业窃密、敲诈勒索、钓鱼木马等等传统攻击手段，或将会演变成隐私监控、身份盗窃乃至危及到人身安全的现实攻击，未来安全行业的攻防主战场，是社会中的每一人，要之，安全之重，势如泰山，而安全之道在于攻守，本书亦多以真实攻守为例，略述万物互联时代攻守之思路，不敢传灯授教，但求燃一星火，以待将来。
 
@@ -17,18 +17,14 @@
 
 ## 技术交流
 
-| 名称 | IoT Security Wiki 0.1|
+| 名称 | IoT Security Wiki 0.3|
 |---------|-------------|
 | 本书地址 | [iot-security.wiki](https://iot-security.wiki)|
 | IoT Security | [iot-security.org](https://iot-security.org)|
-| 本书作者 <img src="https://cdn.bg7ywl.com/Author.png" /> | [Yaseng](https://www.yaseng.org)、独抒、[BG7YWL](https://www.bg7ywl.com/)|
-| 知乎专栏 | [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/iot-security) |
-| 邮箱 | info@iot-security.wiki |
-| IoT Security Shop <img src="https://cdn.bg7ywl.com/Shop1.png" /> | [IoT Security Shop](https://shop135619923.taobao.com/) |
-| QQ交流群 <img src="https://cdn.bg7ywl.com/QQ.png" /> |  [306482276](https://qm.qq.com/cgi-bin/qm/qr?k=8UiQa4vGqKTIQC4A-_x-7MIHJlXLJBwa&jump_from=webapi) |
-| 微信公众号 <img src="https://cdn.bg7ywl.com/WeChat.png" /> | ![](https://cdn.bg7ywl.com/SZ-security.jpg)|
-| 微信交流群 <img src="https://cdn.bg7ywl.com/WeChat.png" /> | ![](https://img.bg7ywl.com/WX.jpg)|
-
+| 本书作者 <img src="https://cdn.bg7ywl.com/IoT-Security-Wiki/Author.png" /> | [Yaseng](https://www.yaseng.org)、独抒、[BG7YWL](https://www.bg7ywl.com/)|
+| 邮箱 | info # iot-security.wiki |
+| IoT Security Shop <img src="https://cdn.bg7ywl.com/IoT-Security-Wiki/Shop1.png" /> | [IoT Security Shop](https://iot-security.taobao.com/) |
+| QQ交流群 <img src="https://cdn.bg7ywl.com/IoT-Security-Wiki/QQ.png" /> |  [306482276](https://qm.qq.com/cgi-bin/qm/qr?k=8UiQa4vGqKTIQC4A-_x-7MIHJlXLJBwa&jump_from=webapi) |
 
 
 ## 参与
